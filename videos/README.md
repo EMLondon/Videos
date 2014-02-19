@@ -14,7 +14,7 @@ Slides should be reformatted as 1920x1080. This will usually mean changing the a
 As a rule, the presentation file should be taken in, reformatted, and then output as PNGs or such for use in the video editing software.
 
 ### Which slides should go in?
-Ask yourself: What would [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte] do? In essence, only put in slides that **enhance** the presentation, and leave slides that are redundant. For example, the following types of slides should stay:
+Ask yourself: What would [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) do? In essence, only put in slides that **enhance** the presentation, and leave slides that are redundant. For example, the following types of slides should stay:
 * Title slide at the beginning of the presentation
 * Illustrations that demonstrate a point
 * Occasional slides that meaningfully *expand* on what the speaker has said
