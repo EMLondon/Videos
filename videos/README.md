@@ -23,6 +23,7 @@ As a rule of thumb, if the speaker reads out a slide, it should **not** go into 
 
 ### How can I display slides?
 There are only two acceptable ways to show slides:
+
 1. Cut to slide showing only slide
 2. Slide fills entire screen with presenter video in bottom right hand corner.
 
