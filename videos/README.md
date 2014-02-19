@@ -13,6 +13,19 @@ Slides should be reformatted as 1920x1080. This will usually mean changing the a
 
 As a rule, the presentation file should be taken in, reformatted, and then output as PNGs or such for use in the video editing software.
 
+### Which slides should go in?
+Ask yourself: What would [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte] do? In essence, only put in slides that **enhance** the presentation, and leave slides that are redundant. For example, the following types of slides should stay:
+* Title slide at the beginning of the presentation
+* Illustrations that demonstrate a point
+* Occasional slides that meaningfully *expand* on what the speaker has said
+
+As a rule of thumb, if the speaker reads out a slide, it should **not** go into the video. Slides will be provided alongside the video, so viewers are always able to peruse them separately
+
+### How can I display slides?
+There are only two acceptable ways to show slides:
+1. Cut to slide showing only slide
+2. Slide fills entire screen with presenter video in bottom right hand corner.
+
 ## What to cut out
 The overarching goal is to create a video that is compelling, professional and succinct. Any extraneous pieces should be cut.
 
